@@ -7,7 +7,7 @@ This module has 2 observers.
 
 # Installation
 1. Create Wemessage folder in app/code
-2. Copy contents of this repository to that directory
+2. Unpack release to that directory
 3. ````
    run bin/magento m:e Wemessage_LinkCustomers
    run bin/magento s:u
