@@ -10,6 +10,6 @@ This module has 2 observers.
 2. Unpack release to that directory
 3. ````
    run bin/magento m:e Wemessage_LinkCustomers
-   run bin/magento s:u
+   run bin/magento s:up
    run bin/magento s:s:d -f
    ````
